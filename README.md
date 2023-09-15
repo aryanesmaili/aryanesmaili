@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **aryanesmailiea@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aryan-esmaili-53425a19b/)
+- 📄 Know about my experiences at my [Linkedin](https://www.linkedin.com/in/aryan-esmaili-53425a19b/) Page
 
 - ⚡ Fun fact **I began with python!**
 
