@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning Web Development with **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/theLunarxs](https://github.com/theLunarxs)
+- 👨‍💻 All of my projects are available at [My Github Page!](https://github.com/theLunarxs)
 
 - 📫 How to reach me: **aryanesmailiea@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aryan-esmaili-53425a19b/](https://www.linkedin.com/in/aryan-esmaili-53425a19b/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aryan-esmaili-53425a19b/)
 
 - ⚡ Fun fact **I began with python!**
 
