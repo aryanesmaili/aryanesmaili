@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Personal Project [Pexita](https://github.com/theLunarxs/Pexita)
 
-- 🌱 I’m currently learning Web Development with **ASP.NET**
+- 🌱 I’m currently messing with **python's world!**
 
 - 👨‍💻 All of my projects are available at [My Github Page!](https://github.com/theLunarxs)
 
