@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Personal Project [Pexita](https://github.com/theLunarxs/Pexita)
 
-- 🌱 I’m currently messing with **python's world!**
+- 🌱 I’m currently messing with **Pexita Project**
 
 - 👨‍💻 All of my projects are available at [My Github Page!](https://github.com/theLunarxs)
 
