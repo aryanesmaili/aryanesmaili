@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a self taught developer currently doing freelancing projects and improving my resume. I use .NET platform as my main tool and I do scripting and automation using Python language.
-
+---
+[![](https://visitcount.itsvg.in/api?id=thelunarxs&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ltsaryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-esmaili) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/R1pperdoc) 
@@ -12,7 +13,3 @@ I'm a self taught developer currently doing freelancing projects and improving m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thelunarxs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thelunarxs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=thelunarxs&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
