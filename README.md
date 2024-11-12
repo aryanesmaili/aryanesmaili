@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a self taught developer. I use .NET platform as my main tool and I do scripting and automation using Python language.
+I'm currently Open To Work and I appreciate your offers.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ltsaryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-esmaili) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/R1pperdoc) 
