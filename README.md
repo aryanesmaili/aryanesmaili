@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building up my resume.<br>🌱 I’m currently learning Langchain framework.<br>⚡ Fun fact! I never studied CS academically.
+I'm a self taught developer. I use .NET Platform as my main tool to develope web applications and I do scripting and automation with python. I'm currently working on web crawling and scraping.
 
 
 ## 🌐 Socials:
