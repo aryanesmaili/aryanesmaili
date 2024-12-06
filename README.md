@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self taught developer. I use .NET Platform as my main tool to develope web applications and I do scripting and automation with python. I'm currently working on web crawling and scraping.
+I'm a self taught developer. I use .NET Platform as my main tool to develope web applications and I do scripting and automation with python. I'm currently open to work.
 
 
 ## 🌐 Socials:
